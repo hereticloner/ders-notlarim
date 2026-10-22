@@ -1,0 +1,9 @@
+# Çıkarılmış ham metin ve kaynak dosyaları ikinci beyin içeriği değildir.
+# Üretilen notlar (konu-*.md, bolum-*.md, kartlar/) senkronlanır ve commit edilir.
+ham/
+kaynak/
+*.pdf
+*.epub
+*.txt
+*.pptx
+*.ppt
