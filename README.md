@@ -13,7 +13,7 @@ notlar Obsidian ile Markdown formatinda tutulur.
 | ADE345 | 1 |
 | ADE395 | 8 |
 | ADE407 | 7 |
-| ADE411 | 3 |
+| ADE411 | 12 |
 | ADE437 | 12 |
 | ADE479 | 6 |
 | ADE489 | 17 |
