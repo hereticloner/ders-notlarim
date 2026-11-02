@@ -9,14 +9,15 @@ notlar Obsidian ile Markdown formatinda tutulur.
 | Ders | Not sayisi |
 | --- | --- |
 | ADE255 | 4 |
-| ADE279 | 51 |
-| ADE345 | 1 |
+| ADE279 | 60 |
+| ADE345 | 5 |
 | ADE395 | 8 |
-| ADE407 | 7 |
+| ADE407 | 15 |
 | ADE411 | 12 |
 | ADE437 | 12 |
 | ADE479 | 6 |
 | ADE489 | 17 |
+| _arsiv-eski-donem | 1 |
 
 ## Okuma
 
